@@ -1,0 +1,7 @@
+name: belief and reason
+title: Belief and Reason (BaR)
+version: '1.0'
+nav:
+- modules/ROOT/nav.adoc
+- modules/theology/nav.adoc
+- modules/ROOT/nav-end.adoc
