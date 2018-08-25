@@ -6,7 +6,7 @@ content:
   sources:
     - url: https://github.com/jcayouette/personal-blog
       branches: master
-      start_path: docs
+      start_path: library
 asciidoc:
   attributes:
     experimental: ''
