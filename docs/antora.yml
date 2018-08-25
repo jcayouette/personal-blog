@@ -4,4 +4,3 @@ version: dev
 nav:
 - modules/ROOT/nav.adoc
 - modules/theology/nav.adoc
-- modules/ROOT/nav-end.adoc
