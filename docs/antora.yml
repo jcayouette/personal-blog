@@ -1,6 +1,6 @@
 name: bar
-title: 'Belief and Reason (BaR)'
-version: '1.0'
+title: Belief and Reason
+version: dev
 nav:
 - modules/ROOT/nav.adoc
 - modules/theology/nav.adoc
