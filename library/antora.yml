@@ -3,4 +3,14 @@ title: Belief and Reason
 version: dev
 nav:
 - modules/ROOT/nav.adoc
+- modules/apologetics/nav.adoc
+- modules/biblical-authority/nav.adoc
+- modules/dating-methods/nav.adoc
+- modules/ethics/nav.adoc
+- modules/fossils/nav.adoc
+- modules/genetics/nav.adoc
+- modules/geology/nav.adoc
+- modules/philosophy/nav.adoc
+- modules/space/nav.adoc
 - modules/theology/nav.adoc
+- modules/worldviews/nav.adoc
