@@ -1,3 +1,2 @@
 * xref:index.adoc[Genetics]
-** xref:apologetics.adoc[Apologetics]
-*** xref:sin.adoc[Sin]
+** xref:introduction-to-genetics.adoc[Introduction to Genetics]

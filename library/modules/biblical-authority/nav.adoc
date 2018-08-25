@@ -1,3 +1,2 @@
 * xref:index.adoc[Biblical Authority]
-** xref:apologetics.adoc[Apologetics]
-*** xref:sin.adoc[Sin]
+** xref:introduction-to-biblical-authority.adoc[Introduction to Biblical Authority]

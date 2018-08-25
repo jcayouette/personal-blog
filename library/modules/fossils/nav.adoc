@@ -1,3 +1,2 @@
 * xref:index.adoc[Fossils]
-** xref:apologetics.adoc[Apologetics]
-*** xref:sin.adoc[Sin]
+** xref:introduction-to-fossils.adoc[Introduction to Fossils]

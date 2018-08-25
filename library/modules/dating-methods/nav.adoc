@@ -1,3 +1,2 @@
 * xref:index.adoc[Dating Methods]
-** xref:apologetics.adoc[Apologetics]
-*** xref:sin.adoc[Sin]
+** xref:dating-methods.adoc[Introduction to Dating Methods]

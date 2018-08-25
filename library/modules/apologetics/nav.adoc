@@ -1,3 +1,2 @@
 * xref:index.adoc[Apologetics]
-** xref:apologetics.adoc[Apologetics]
-*** xref:sin.adoc[Sin]
+** xref:apologetics.adoc[Introduction to Apologetics]
