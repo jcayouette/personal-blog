@@ -1,5 +1,5 @@
 name: bar
-title: Belief and Reason (BaR)
+title: 'Belief and Reason (BaR)'
 version: '1.0'
 nav:
 - modules/ROOT/nav.adoc
