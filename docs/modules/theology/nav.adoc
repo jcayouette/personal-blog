@@ -1,1 +1,3 @@
+* Theology
+** Apologetics
 * xref:sin.adoc[Sin]

@@ -1,1 +1,2 @@
+* Welcome
 * xref:what-is-bar.adoc[What is BaR?]
