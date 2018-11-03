@@ -1,2 +1,0 @@
-* xref:index.adoc[Geology]
-** xref:intro-to-geology.adoc[Intro to Geology]

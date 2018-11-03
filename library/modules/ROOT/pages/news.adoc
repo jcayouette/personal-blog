@@ -1,3 +1,0 @@
-= News
-
-Testing the news page...

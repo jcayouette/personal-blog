@@ -1,5 +1,0 @@
-= What is BaR?
-
-Test about document...
-
-image::brainapp.jpg[Brain App]

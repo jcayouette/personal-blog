@@ -1,2 +1,0 @@
-* xref:index.adoc[Space]
-** xref:big-bang.adoc[The Big Bang Theory]

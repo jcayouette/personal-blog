@@ -1,2 +1,0 @@
-* xref:index.adoc[Biblical Authority]
-** xref:introduction-to-biblical-authority.adoc[Introduction to Biblical Authority]

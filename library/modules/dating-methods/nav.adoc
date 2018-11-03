@@ -1,2 +1,0 @@
-* xref:index.adoc[Dating Methods]
-** xref:dating-methods.adoc[Introduction to Dating Methods]

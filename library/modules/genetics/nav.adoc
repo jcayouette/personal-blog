@@ -1,2 +1,0 @@
-* xref:index.adoc[Genetics]
-** xref:introduction-to-genetics.adoc[Introduction to Genetics]

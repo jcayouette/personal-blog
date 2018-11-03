@@ -1,2 +1,0 @@
-* xref:index.adoc[Apologetics]
-** xref:apologetics.adoc[Introduction to Apologetics]

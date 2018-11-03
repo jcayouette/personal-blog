@@ -1,5 +1,0 @@
-= Sin
-
-What is sin?...
-
-image::sin.jpg[Sin]

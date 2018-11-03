@@ -1,3 +1,0 @@
-// figure out logic for adding the latest 10 posts to the news page.
-* xref:news.adoc[News]
-* xref:what-is-bar.adoc[What is BaR?]

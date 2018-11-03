@@ -1,2 +1,0 @@
-* xref:index.adoc[Fossils]
-** xref:introduction-to-fossils.adoc[Introduction to Fossils]

@@ -1,2 +1,0 @@
-* xref:index.adoc[Ethics and Morality]
-** xref:introduction-to-ethics.adoc[Introduction to Ethics]
