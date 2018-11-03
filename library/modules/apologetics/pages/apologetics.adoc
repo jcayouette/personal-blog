@@ -1,41 +1,89 @@
 [[apologetics]]
-= Apologetics
-:date:
+= Christian Apologetics History and Context
+:date: November 3, 2018
+:author: Joseph Cayouette
+:experimental:
 
-== Introduction
-What is an apologia?
+__{author} - {date}__
 
-The word apologia makes a bold appearance in **1 Peter 3:15**.
-Paul addresses early Christians in Asia Minor who were going through intense suffering and persecution because of their faith in Christ.
+== What are Christian Apologetics?
 
-[quote, 1 Peter 3:15, The Apostle Peter writing to Christians in Asia Minor ]
+What are Christian Apologetics? Apologetics is the Christlike discipline of using gentle, respectful and direct arguments from scripture(The Bible) and from observations made from within the created universe to aid in removing doubt and disbelief for the self and for others. 
+
+The goal of Christian Apologetics is to provide a reasonable, rational and logical defense for the reliability and trustworthiness of the Bible (Which makes pretty substantial claims in being the "Word of God") the outcome of which is a consistent and rational foundation for ones faith. Since the Bible describes God as a rational, logical and truthful Spirit, then the Apologist seeks/aims to explore these truths while simultaneously exposing lies which contradict themselves and attempt to undermine and set themselves up against the knowledge of God along the way.
+
+In Isaiah 1:18 God is reasoning with Israel;
+[quote, God, Isaiah 1:18]
 ____
-__14__ But even if you should suffer for righteousness’ sake, you will be blessed. Have no fear of them, nor be troubled, __15__ but in your hearts honor Christ the Lord as holy, always being prepared to make a **defense(ἀπολογία)** to anyone who asks you for a reason for the hope that is in you; yet do it with **gentleness and respect**, __16__ having a good conscience, so that, when you are slandered, those who revile your good behavior in Christ may be put to shame.
+^18^ “Come now, let us reason^<<#2>>^ together, says the Lord:
+though your sins are like scarlet,
+    they shall be as white as snow;
+though they are red like crimson,
+    they shall become like wool.
 ____
 
 == Word Meaning
-In Greek the word **ἀπολογία** means "A speech of defense, defense, reply"
 
-For example: "hear the defense which I now make to you"
+ἀπολογία:: A speech of defense, defense, reply.
 
-This word is used several times throughout the New Testament and refers to a defense against examination in court and a defense and confirmation of the gospel message itself.
+Apologia is used many times in the New Testament. 
+In all cases it refers to either a defense given during an examination in court or it is used to provide a defense and confirmation of the gospel message itself.
 
-A few prime examples would be:
+[#apologetics-intro]
+.Apologetics
+****
+Apologetics is the discipline that deals with a rational defense of Christian faith. It comes from the Greek word apologia which means to give a reason or defense.^<<#1>>^
+****
 
-[quote, Acts 22:1, ἀπολογία study]
-____
-“Brothers and fathers, **hear the defense** that I now make before you.”
-____
+.Trust Built Upon a Foundation of Logic and Reason
+[NOTE]
+====
+Disbelief comes from within us, despite the fact that we are Christians or not. Apologetics is something that is done as much for the self as it should be used for sharing truth with others.
+====
 
-[quote, Acts 25:16, ἀπολογία study]
-____
-I answered them that it was not the custom of the Romans to give up anyone before the accused met the accusers face to face and **had opportunity to make his defense** concerning the charge laid against him.
-____
-[quote, Colossians 9:3, ἀπολογία study]
-____
-This is my defense to those who would examine me.
-____
-[quote, Philippians 1:7, ἀπολογία study]
-____
-It is right for me to feel this way about you all, because I hold you in my heart, for you are all partakers with me of grace, both in my imprisonment and in the **defense and confirmation of the gospel**.
-____
+Faith should never be blind. Paul used Apologetics for believers as much as he did for unbelievers.
+
+The word apologia makes a strong appearance in *1 Peter 3:15*.
+Paul addresses early Christians in Asia Minor who had been going through intense suffering and persecution because of their faith in Christ.
+
+.1 Peter 3:15
+****
+^14^ But even if you should suffer for righteousness’ sake, you will be blessed. Have no fear of them, nor be troubled, ^15^ but in your hearts honor Christ the Lord as holy, always being prepared to make a *defense* *(ἀπολογία)* to anyone who asks you for a reason for the hope that is in you; yet do it with *gentleness and respect*, ^16^ having a good conscience, so that, when you are slandered, those who revile your good behavior in Christ may be put to shame.
+****
+
+
+
+=== Textual Examples
+
+There are several use cases for this word in the NT.
+
+.Acts 22:1
+****
+“Brothers and fathers, *hear the defense* that I now make before you.”
+****
+
+.Acts 25:16
+****
+I answered them that it was not the custom of the Romans to give up anyone before the accused met the accusers face to face and *had opportunity to make his defense* concerning the charge laid against him.
+****
+
+.Colossians 9:3
+****
+This is my *defense* to those who would examine me.
+****
+
+.Philippians 1:7
+****
+It is right for me to feel this way about you all, because I hold you in my heart, for you are all partakers with me of grace, both in my imprisonment and in the *defense and confirmation of the gospel*.
+****
+
+
+[#apologetic-references]
+== References
+
+[#1]
+Norman L. Geisler, Apologetics, Need for, Baker Encyclopedia of Christian Apologetics,  1999 <<#apologetics-intro,Return to Text>>
+
+[#2]
+(2) Or _dispute_
+
